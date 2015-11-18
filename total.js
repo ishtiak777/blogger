@@ -57,7 +57,7 @@ randLink[3] = 'http://bd.techbia.com/2015/11/grameenphone-gp-1gb-internet-150tk-
 randLink[4] = 'http://bd.techbia.com/2015/11/robi-internet-plus-buy-internet-pack-free-minute-sms.html';
 
 
-for(var j=randTitle.length-1;j>=3;j--){
+for(var j=randTitle.length-1;j>=0;j--){
 	if(mVersion==1) randFinal = randFinal + '<li><a href="'+randLink[j]+'?m=1">'+randTitle[j]+'</a></li>';
 	else randFinal = randFinal + '<li><a href="'+randLink[j]+'">'+randTitle[j]+'</a></li>';
 }

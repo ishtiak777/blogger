@@ -15,19 +15,19 @@ var finalString = '';
 
 // setting variable values
 
-postTitle[0] = 'Eid-Ul-Adha 2015 Eid Offers of all Operators';
-postTitle[7] = 'Robi 1GB at 9tk &amp; special call rate on 9tk Recharge (unused bondho connection)';
-postTitle[2] = 'Banglalink 25% bonus internet, 25 paisa/minute, 25 paisa/sms on 29tk recharge';
-postTitle[3] = 'Grameenphone 1GB at 89 Tk 7 days dail *500*95#';
-postTitle[4] = '2GB free internet and special call rate on 19Tk recharge Banglalink New or unused connection';
-postTitle[1] = 'Grameenphone Eid Smartphone offer Symphony V52+Power bank at 6390Tk';
+postTitle[0] = 'Robi 1GB 9Tk bondho sim reactivation offer';
+postTitle[7] = 'Banglalink Reactivation offer 1GB at 29tk';
+postTitle[2] = 'Symphony V85 at 6990 Tk with free Mug Grameenphone offer';
+postTitle[3] = 'airtel 1GB 3G internet at 98Tk with 5 days validity';
+postTitle[4] = 'Robi 1GB 89Tk recharge offer';
+postTitle[1] = 'Grameenphone 90MB at 14Tk valentines offer #trulyspecial';
 
-postLink[0] = 'http://bd.techbia.com/2015/09/eid-offers-of-all-operators-eid-ul-adha-2015.html';
-postLink[7] = 'http://bd.techbia.com/2015/09/robi-1gb-at-9tk-special-call-rate-on.html';
-postLink[2] = 'http://bd.techbia.com/2015/09/banglalink-25-bonus-internet-25.html';
-postLink[3] = 'http://bd.techbia.com/2015/08/grameenphone-1gb-at-89-tk-7-days-dail.html';
-postLink[4] = 'http://bd.techbia.com/2015/08/2gb-free-internet-and-special-call-rate.html';
-postLink[1] = 'http://bd.techbia.com/2015/09/grameenphone-eid-smartphone-offer-symphony-v52-powerbank.html?m=1';
+postLink[0] = 'http://3goffer.com/robi-1gb-9tk-bondho-sim-reactivation-offer/';
+postLink[7] = 'http://3goffer.com/banglalink-reactivation-offer-1gb-at-29tk/';
+postLink[2] = 'http://3goffer.com/grameenphone-symphony-v85-at-6990-tk/';
+postLink[3] = 'http://3goffer.com/airtel-1gb-98tk-recharge-offer-5-days-validity/';
+postLink[4] = 'http://3goffer.com/robi-1gb-89tk-recharge-offer/';
+postLink[1] = 'http://3goffer.com/gp-grameenphone-90mb-at-14tk-call-rate/';
 // putting all texts and links in a final string
 
 for(var i=0;i<postTitle.length;i++){

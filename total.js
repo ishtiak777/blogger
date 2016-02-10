@@ -65,9 +65,9 @@ for(var j=randTitle.length-1;j>=0;j--){
 // outputting the result
 
 if(mVersion==1){
-//	document.write('<h3>Most viewd</h3>');
-//	document.write('<ul>'+finalString+'</ul>');
+/	document.write('<h3>Most viewd</h3>');
+	document.write('<ul>'+finalString+'</ul>');
 
-	document.write('<h3>Latest posts</h3>');
-	document.write('<ul>'+randFinal+'</ul>');
+//	document.write('<h3>Latest posts</h3>');
+//	document.write('<ul>'+randFinal+'</ul>');
 }

@@ -16,14 +16,14 @@ var finalString = '';
 // setting variable values
 
 postTitle[0] = 'Robi 1GB 9Tk bondho sim reactivation offer';
-postTitle[7] = 'Banglalink Reactivation offer 1GB at 29tk';
+postTitle[5] = 'Banglalink Reactivation offer 1GB at 29tk';
 postTitle[2] = 'Symphony V85 at 6990 Tk with free Mug Grameenphone offer';
 postTitle[3] = 'airtel 1GB 3G internet at 98Tk with 5 days validity';
 postTitle[4] = 'Robi 1GB 89Tk recharge offer';
 postTitle[1] = 'Grameenphone 90MB at 14Tk valentines offer #trulyspecial';
 
 postLink[0] = 'http://3goffer.com/robi-1gb-9tk-bondho-sim-reactivation-offer/';
-postLink[7] = 'http://3goffer.com/banglalink-reactivation-offer-1gb-at-29tk/';
+postLink[5] = 'http://3goffer.com/banglalink-reactivation-offer-1gb-at-29tk/';
 postLink[2] = 'http://3goffer.com/grameenphone-symphony-v85-at-6990-tk/';
 postLink[3] = 'http://3goffer.com/airtel-1gb-98tk-recharge-offer-5-days-validity/';
 postLink[4] = 'http://3goffer.com/robi-1gb-89tk-recharge-offer/';

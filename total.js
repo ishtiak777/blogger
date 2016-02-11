@@ -32,7 +32,7 @@ postLink[1] = 'http://3goffer.com/gp-grameenphone-90mb-at-14tk-call-rate/';
 
 for(var i=0;i<postTitle.length;i++){
 	if(postLink[i]=='') continue;
-	if(mVersion==1) finalString = finalString + '<li><a href="'+postLink[i]+'">'+postTitle[i]+'</a></li>';
+	if(mVersion==1) finalString = finalString + '<li><a href="'+postLink[i]+'?utm_source=techybd">'+postTitle[i]+'</a></li>';
 	else finalString = finalString + '<li><a href="'+postLink[i]+'">'+postTitle[i]+'</a></li>';
 
 }

@@ -17,7 +17,7 @@ var finalString = '';
 
 postTitle[0] = 'Robi 1GB 9Tk bondho sim reactivation offer';
 postTitle[5] = 'Banglalink Reactivation offer 1GB at 29tk';
-postTitle[2] = 'Symphony V85 at 6990 Tk with free Mug Grameenphone offer';
+postTitle[2] = 'Grameenphone 366MB at 29 Tk, Leap year internet offer 2016';
 postTitle[3] = 'airtel 1GB 3G internet at 98Tk with 5 days validity';
 postTitle[4] = 'Robi 1GB 89Tk recharge offer';
 postTitle[1] = 'Grameenphone 90MB at 14Tk valentines offer #trulyspecial';
@@ -25,7 +25,7 @@ postTitle[6] = 'Grameenphone valentines offer 1GB 99Tk 2GB 149Tk 3GB 199Tk';
 
 postLink[0] = 'http://3goffer.com/robi-1gb-9tk-bondho-sim-reactivation-offer/?utm_source=techybd&utm_medium=Mobile';
 postLink[5] = 'http://3goffer.com/banglalink-reactivation-offer-1gb-at-29tk/?utm_source=techybd&utm_medium=Mobile';
-postLink[2] = 'http://3goffer.com/grameenphone-symphony-v85-at-6990-tk/?utm_source=techybd&utm_medium=Mobile';
+postLink[2] = 'http://3goffer.com/grameenphone-366mb-at-29-tk-leap-year-offer/?utm_source=techybd&utm_medium=Mobile';
 postLink[3] = 'http://3goffer.com/airtel-1gb-98tk-recharge-offer-5-days-validity/?utm_source=techybd&utm_medium=Mobile';
 postLink[4] = 'http://3goffer.com/robi-1gb-89tk-recharge-offer/?utm_source=techybd&utm_medium=Mobile';
 postLink[1] = 'http://3goffer.com/gp-grameenphone-90mb-at-14tk-call-rate/?utm_source=techybd&utm_medium=Mobile';
